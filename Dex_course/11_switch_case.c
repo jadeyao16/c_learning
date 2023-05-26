@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+參考資料 :
+[T11] 【C 編程】 需要放 break 嗎? switch case 陳述式 教學 (中文字幕) (可調節速度)
+https://www.youtube.com/watch?v=5SUt4dWYnqw
+*/
+
 void main () {
     int floor = 0 ;
     printf("Enter a floor (1-5) :");

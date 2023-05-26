@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+參考資料 :
+[T11] 【C 編程】 {學生常犯錯誤 ?: } If-Else Conditionals 條件句 條件陳述式 Ternary Operators 三元條件運算符 教學 (中文字幕) (可調節速度)
+https://www.youtube.com/watch?v=KbHug-GyUQA
+*/
+
 int main () {
     int score = 0;
     printf("Enter score: ");

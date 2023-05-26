@@ -1,8 +1,16 @@
 #include <stdio.h>
+
+/*
+參考資料 :
+[T11] 【C 編程】FOR Loop 指定次數重複動作 教學 (中文字幕) (可調節速度)
+https://www.youtube.com/watch?v=bzGvl3Ui8CI
+*/
+
 /*
 for (initialization;iteration condition;increment)
 for (初始化;迭代條件;增量)
 */
+
 void main () {
     // Nested For Loop 9*9乘法表
     for (int i=1; i<=10; i++) {
