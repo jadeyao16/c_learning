@@ -1,0 +1,11 @@
+Dex_course 是參照學習
+C 編程 廣東話教學 新手入門級 :: Dex IT (中文字幕) 
+https://www.youtube.com/playlist?list=PLRT_mXSri0wpQ3GviX4hjiwdeV28uioIa
+的筆記與程式範例
+
+學習難度適合已經會別種程式語言，需要學習新的程式語言的人
+完全的入門新手需要花更多的時間學習與了解
+但內容堆老手來說，深入簡出，每個範例也都是關鍵核心
+適合重新認識與學習新的語言
+此次學習時間是4天，大約16~20小時
+包含建置環境vscode+基本git安裝+github

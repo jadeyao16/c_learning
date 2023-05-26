@@ -1,5 +1,11 @@
 #include <stdio.h>
 #include <stdbool.h>
+
+/*
+參考資料
+[T11] C 語言的宣告、定義、儲存類型 (storage class) 與連結性 (linkage)
+https://dev.to/codemee/c-yu-yan-de-xuan-gao-ding-yi-chu-cun-lei-xing-storage-class-yu-lian-jie-xing-linkage-4p1d
+*/
 /*
 float 表現實數的近似數值 (無法精確表示)
 
@@ -9,6 +15,8 @@ fflush 可以洗去前stdin buffer裡的值
 
 Q : 檔名不能有底下線? 一直不能debug
 */
+
+
 
 void main(void) {
 

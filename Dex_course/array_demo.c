@@ -4,7 +4,7 @@
 */
 #include <stdio.h>
 
-void main(void) {
+int main(void) {
     int int_array[6] = {10,20,30,40,50,60};
     printf("intarray[0]:%d \n",int_array[0]);
     int_array[0] = 100;
