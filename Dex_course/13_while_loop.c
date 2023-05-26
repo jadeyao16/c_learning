@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+參考資料 :
+[T11] 【C 編程】WHILE/ DO WHILE Loop 指定條件重複動作 教學 (中文字幕) (可調節速度)
+https://www.youtube.com/watch?v=347Dz4_1zOs
+*/
+
 int main (){
     
     // while(condition) - pre-test loop前測循環

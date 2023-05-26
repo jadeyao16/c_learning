@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+參考資料 : 
+[T11] 【C 編程】 Arithmetic 算術運算符、Type Casting 數據類型轉換、Assignment 賦值 教學 (中文字幕) (可調節速度)
+https://www.youtube.com/watch?v=t6vKUl5__3Y
+*/
+
 void main(){
     int a=20;
     int b=60;

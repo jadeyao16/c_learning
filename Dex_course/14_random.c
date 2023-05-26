@@ -2,7 +2,8 @@
 #include <stdlib.h> // for srand() , rand()
 #include <time.h> // for time()
 
-/*參考資料
+/*
+參考資料 :
 [T11] 【C 編程】隨機數也有假？Random Number 產生隨機數 教學 (中文字幕) (可調節速度)
 https://www.youtube.com/watch?v=LC1eDnTBL-8
 [T11] C/C++ 使用 rand 函數產生隨機亂數教學與範例程式碼
@@ -21,6 +22,7 @@ https://blog.gtwang.org/programming/c-cpp-rand-random-number-generation-tutorial
 所以產生了生成亂數的感覺
 也稱為偽隨機性 Pseudo-randomness
 */
+
 void main () {
     srand(time(NULL));
     //srand() Seed Random 亂數種子

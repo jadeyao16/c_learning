@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+參考資料 :
+[T11] 【C 編程】 比較運算符 Comparison Operators (關聯式 Relational 、等式 Equality) 教學 (中文字幕) (可調節速度)
+https://www.youtube.com/watch?v=lqfF44WVBWA
+*/
+
 void main(){
     int a=20;
     int b=60;

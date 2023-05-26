@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+參考資料 :
+[T11] 【C 編程】 不能搞錯前後綴！增減量運算符 Increment Decrement 教學 (中文字幕) (可調節速度)
+https://www.youtube.com/watch?v=PgJDMR6-AZ0
+*/
+
 void main () {
     int a = 1;
     a++;

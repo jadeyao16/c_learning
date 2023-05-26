@@ -1,8 +1,14 @@
+#include <stdio.h>
+/*
+參考資料 : 
+[T11] 【C 編程】 Array 陣列 與 Strings 字串 教學 (中文字幕) (可調節速度)
+https://www.youtube.com/watch?v=w3aQ2DzmbOU
+*/
+
 /* Array 
 1.連貫的記憶位置(contiguous memory locations)
 2.相同的元素(element)組成的數據結構(data structure)
 */
-#include <stdio.h>
 
 int main(void) {
     int int_array[6] = {10,20,30,40,50,60};
